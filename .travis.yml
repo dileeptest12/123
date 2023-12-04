@@ -3,8 +3,7 @@ jobs:
    - os: linux
      language: ruby
      rvm:
-      - 2.5
-      - 2.6
+      - 2.3.8
      arch: amd64
      dist: xenial
      script:
